@@ -95,4 +95,4 @@ These SSDTs  inject USB power properties and control over FakePCIID_XHCIMux (den
 SSDT-ALS0.dsl
 Injects a fake ALS device (ambient light sensor).  This SSDT is used to fix problems with restoring brightness upon reboot.
 
-
+THIS CHANGE IS JUST HERE FOR THE SAKE OF IT
